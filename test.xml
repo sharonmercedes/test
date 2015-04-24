@@ -59,7 +59,7 @@
                                 <field name="OBJECT">GREEN</field>
                                 <next>
                                   <block type="oled_linerect" id="175">
-                                    <field name="OBJECT">LINE</field>
+                                    <field name="OBJECT">RECT</field>
                                   </block>
                                 </next>
                               </block>
